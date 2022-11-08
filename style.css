@@ -13,11 +13,12 @@ p{
     width: 85%
     border: 40px solid rgb(19,1,1);
 }
+ul{
+    display: inline-block;
+}
 .cafe{
 
     width: 20%;
  
 }
-    ul {
-        dispLay:inline-block,
-    }
+    
