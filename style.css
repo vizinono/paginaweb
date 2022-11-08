@@ -8,4 +8,8 @@ h1 {
 }
 p{
     font-size: 30px;
+} 
+.ambiente {
+    width: 85%
+    border: 40px solid rgb(19,1,1);
 }
